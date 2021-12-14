@@ -383,8 +383,8 @@
 		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/OpenComputers-MC1.7.10-1.7.5.16-GTNH.163-universal.jar"
 	},
 	{
-		"path": "mods/OpenGlasses-1.1-GTNH.1.jar",
-		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/OpenGlasses-1.1-GTNH.1.jar"
+		"path": "mods/OpenGlasses-1.1-GTNH.2.jar",
+		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/OpenGlasses-1.1-GTNH.2.jar"
 	},
 	{
 		"path": "mods/OpenMods-1.7.10-0.10.2.jar",
@@ -507,8 +507,8 @@
 		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/ThaumcraftMobAspects-1.7.10-1.0.0-GTNH.jar"
 	},
 	{
-		"path": "mods/Thaumcraft-NEI-Additions-1.7.10-1.1.0.1a.jar",
-		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/Thaumcraft-NEI-Additions-1.7.10-1.1.0.1a.jar"
+		"path": "mods/tcneiadditions-1.7.10-1.1.0.3.jar",
+		"url": "http://downloads.gtnewhorizons.com/Mods_for_Twitch/tcneiadditions-1.7.10-1.1.0.3.jar"
 	},
 	{
 		"path": "mods/ThaumcraftResearchTweaks-1.7.10-1.0.2.jar",
